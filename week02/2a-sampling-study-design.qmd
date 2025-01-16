@@ -509,3 +509,6 @@ More examples on [Wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 
 We need to move beyond thinking about the relationship between just two variables. We need to keep asking if there are/could be any **confounding** variables.
 
+## Learning Tip of the Day
+
+[Why does peer instruction benefit student learning?](https://link.springer.com/article/10.1186/s41235-020-00218-5)
